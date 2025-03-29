@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aetthera](https://github.com/Aetthera)
 
-- 📝 I regularly write articles on [https://aetthera.github.io/portfolioWebsite/error404.html](https://aetthera.github.io/portfolioWebsite/error404.html)
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **https://www.linkedin.com/in/alena-belova-dmvn/**
