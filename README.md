@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **aledbelov@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/alena-belova-dmvn/**
 
 - 📄 Know about my experiences [https://aetthera.github.io/portfolioWebsite/](https://aetthera.github.io/portfolioWebsite/)
 
