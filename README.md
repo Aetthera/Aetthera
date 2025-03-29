@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://aetthera.github.io/portfolioWebsite/](https://aetthera.github.io/portfolioWebsite/)
 
-- ⚡ Fun fact **I am a part time cartographer for a local Orienteering club**
+- ⚡ Fun fact **I am a part time Cartographer and a Director at a local Orienteering club "Ramblers"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
